@@ -1,0 +1,18 @@
+.hoverCoordinate-container{
+    position: fixed;
+    top: 44px;
+    left: 0px;
+    background-color:rgba(0, 0, 0, 0.6);;
+    z-index: 50;
+    display: flex; 
+    gap: 5px;
+    padding:5px 10px 5px 10px;
+    font-size: 12px;
+    width: 300px;
+    color: white;
+  
+}
+.hoverCoordinate-container>h1{
+    width: 80px;
+    text-align: center;  
+}

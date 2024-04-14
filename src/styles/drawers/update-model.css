@@ -1,0 +1,10 @@
+.update-model-content{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.slider-input-container{
+    display: flex;
+    align-items: center;
+    gap:20px
+}

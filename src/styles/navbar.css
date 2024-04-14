@@ -1,0 +1,28 @@
+.nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;   
+    background-color: #C56AC3 ; /* İlk renk */
+    padding: 10px;
+
+    text-align: center;
+    z-index: 50;
+    animation-name: colorChange;
+    animation-duration: 5s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes colorChange {
+    0% {
+        background-color: #ed7e07; /* İlk renk */
+    }
+
+    50% {
+        background-color: #f80000; /* İkinci renk */
+    }
+
+    100% {
+        background-color: #ed7e07; /* İlk renk (tekrar) */
+    }
+}

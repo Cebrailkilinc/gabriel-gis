@@ -1,0 +1,49 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    38.25742,
+                    37.75044
+                ],
+                [
+                    38.25767,
+                    37.75053
+                ],
+                [
+                    38.2576,
+                    37.75067
+                ],
+                [
+                    38.25734,
+                    37.75058
+                ],
+                [
+                    38.25742,
+                    37.75044
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "ilceAd": "Merkez",
+        "mevkii": "Bulduk",
+        "ilId": 24,
+        "durum": "1",
+        "ilceId": 117,
+        "zeminKmdurum": "Ana Taşınmaz",
+        "parselNo": "457",
+        "mahalleAd": "Sümerevleri",
+        "ozet": "Sümerevleri-2658/457",
+        "gittigiParselListe": "",
+        "gittigiParselSebep": "",
+        "alan": "424.13",
+        "adaNo": "2658",
+        "nitelik": "Susuz Tarla",
+        "ilAd": "Adiyaman",
+        "mahalleId": 131939,
+        "pafta": ""
+    }
+}

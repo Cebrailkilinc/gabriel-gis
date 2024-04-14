@@ -1,0 +1,69 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    38.25166,
+                    37.74785
+                ],
+                [
+                    38.25167,
+                    37.74785
+                ],
+                [
+                    38.25157,
+                    37.74804
+                ],
+                [
+                    38.25142,
+                    37.74798
+                ],
+                [
+                    38.25126,
+                    37.74793
+                ],
+                [
+                    38.25136,
+                    37.74774
+                ],
+                [
+                    38.25147,
+                    37.74754
+                ],
+                [
+                    38.25162,
+                    37.74759
+                ],
+                [
+                    38.25177,
+                    37.74765
+                ],
+                [
+                    38.25166,
+                    37.74785
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "ilceAd": "Merkez",
+        "mevkii": "Bulduk",
+        "ilId": 24,
+        "durum": "1",
+        "ilceId": 117,
+        "zeminKmdurum": "Kat Mülkiyet",
+        "parselNo": "18",
+        "mahalleAd": "Sümerevleri",
+        "ozet": "Sümerevleri-833/18",
+        "gittigiParselListe": "",
+        "gittigiParselSebep": "",
+        "alan": "1,376.27",
+        "adaNo": "833",
+        "nitelik": "5 Katli Betonarme Mesken Ve Arsasi.",
+        "ilAd": "Adiyaman",
+        "mahalleId": 131939,
+        "pafta": ""
+    }
+}
